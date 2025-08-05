@@ -1,0 +1,9 @@
+aws_region           = "us-east-1"
+databricks_account_id = "your-databricks-account-id"
+databricks_username   = "your@databricks.com"
+databricks_password   = "your_password"
+workspace_name        = "my-databricks-workspace"
+databricks_root_bucket = "my-databricks-root-bucket-unique-name"
+vpc_id                = "vpc-xxxxxxxx"
+subnet_ids            = ["subnet-xxxxxxxx", "subnet-yyyyyyyy"]
+security_group_ids    = ["sg-xxxxxxxx"]
